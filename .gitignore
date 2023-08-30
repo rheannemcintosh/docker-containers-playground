@@ -1,2 +1,5 @@
-episode-3/mysql
+episode-3/mysql/*
+laravel-docker.test.pem
+laravel-docker.test-key.pem
 .idea
+!episode-3/mysql/.gitkeep
