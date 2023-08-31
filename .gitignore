@@ -1,5 +1,10 @@
+# MySQL
 laravel-container/mysql/*
+!laravel-container/mysql/.gitkeep
+
+# SSL Certificates
 laravel-docker.test.pem
 laravel-docker.test-key.pem
+
+# Editor
 .idea
-!laravel-container/mysql/.gitkeep
