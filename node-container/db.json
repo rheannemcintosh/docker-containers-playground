@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Cool Project",
+            "author": "Rheanne McIntosh"
+        },
+        {
+            "title": "Another Awesome Post",
+            "author": "Rheanne McIntosh"
+        }
+    ],
+    "profile": {
+        "first_name": "Rheanne",
+        "last_name": "McIntosh",
+        "email": "rm@example.com"
+    }
+}

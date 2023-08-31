@@ -5,7 +5,6 @@ WORKDIR /home/server
 RUN npm install -g json-server
 
 COPY db.json /home/server/db.json
-
 COPY alt.json /home/server/alt.json
 
 EXPOSE 3000
