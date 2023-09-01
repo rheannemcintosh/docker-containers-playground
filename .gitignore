@@ -3,7 +3,8 @@ laravel-container/mysql/*
 !laravel-container/mysql/.gitkeep
 
 # src
-src
+laravel-container/src/*
+!laravel-container/src/*
 
 # SSL Certificates
 laravel-docker.test.pem
