@@ -22,6 +22,4 @@ A playground repository for docker, creating a node container to run JSON server
 
 
 ## Notes
-- **Keywords:** Docker, Dockerfile, Docker Compose, Nginx, Php, Laravel, Node, JSON, JSON Server, YAML
-
 If you have any questions or can suggest any improvements, please let me know!
